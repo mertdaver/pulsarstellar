@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="Pulsar-Stellar Logo" width="200"/>
+</p>
+
 # Pulsar-Stellar: Innovating the Union of Robots & Humans
 
 Welcome to Pulsar-Stellar, an evolving framework at the forefront of blending advanced AI cognition with dynamic robotics. Here, we're not just coding robots; we're empowering them to understand, interact, and express in uniquely innovative ways, laying the groundwork for an array of diverse and unique robotic creations.
@@ -12,13 +16,11 @@ Pulsar-Stellar is currently in active development, striving to synergize cogniti
 - **Diverse Expressive Capabilities:** Enabling robots to convey a range of expressions and emotions in their own unique styles.
 - **Versatile Robotics:** Designed to accommodate a wide spectrum of robotic types, from simple mechanical assistants to complex, sentient beings.
 
-## Getting Started
+## Join Our Community Forum
 
-Join us in shaping the next generation of robotics:
+Be a part of the Pulsar-Stellar journey and connect with a global community of like-minded innovators and creators. Our forum is a space for discussing ideas, sharing knowledge, and collaborating on this exciting frontier of AI and robotics.
 
-```bash
-pip install pulsarstellar
-```
+[Join the Pulsar-Stellar Forum](https://discord.gg/FtgHSTtd8R)
 
 ## Contribute to the Evolution
 
