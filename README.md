@@ -35,7 +35,7 @@ Be a part of the Pulsar-Stellar journey and connect with a global community of l
 
 ## License
 
-Pulsar-Stellar is an open-source project, proudly shared under the  **MIT License.**
+Pulsar-Stellar is an open-source project, proudly shared under the  **Apache 2.0 License.**
 
 ## Embark on a Robotic Adventure
 

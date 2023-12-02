@@ -1,6 +1,6 @@
-# Contributing to PulsarStellar
+# Contributing to Pulsar-Stellar
 
-We are thrilled that you are interested in contributing to PulsarStellar! This document provides guidelines and information about how you can contribute to the PulsarStellar project. Whether you're fixing bugs, improving documentation, proposing new features, or writing tutorials, your help is welcome.
+We are thrilled that you are interested in contributing to Pulsar-Stellar! This document provides guidelines and information about how you can contribute to the Pulsar-Stellar project. Whether you're fixing bugs, improving documentation, proposing new features, or writing tutorials, your help is welcome.
 
 ## How to Contribute
 
@@ -20,13 +20,13 @@ Report **[Here](https://github.com/pulsarstellar/pulsarstellar/issues/new)**
 
 If you are a developer and wish to contribute to the codebase, follow these steps:
 
-1. **Fork the Repository:** Create a personal fork of the PulsarStellar project.
+1. **Fork the Repository:** Create a personal fork of the Pulsar-Stellar project.
 2. **Clone the Fork:** Clone your fork to your local machine.
 3. **Create a Branch:** Create a new branch and switch to it.
 4. **Make Changes:** Make your changes in the new branch.
 5. **Commit Your Changes:** Commit your changes with a clear commit message.
 6. **Push to Your Fork:** Push the changes to your fork on GitHub.
-7. **Submit a Pull Request:** From your fork, open a pull request in the correct branch of the PulsarStellar repository.
+7. **Submit a Pull Request:** From your fork, open a pull request in the correct branch of the Pulsar-Stellar repository.
 
 Please adhere to the coding conventions used throughout the project and add unit tests for any new or changed functionality.
 
