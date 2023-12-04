@@ -1,19 +1,23 @@
 from setuptools import setup, find_packages
 
+from ps.version import __version__
+
+
 
 setup(
-    name='Pulsar-Stellar',
-    version='0.1.0',
-    url='https://github.com/pulsarstellar/pulsarstellar',
-    author='Lalo Blanc',
-    author_email='blanc@pulsarstellar.ai',
-    description='Pulsar-Stellar is an innovative, open-source framework designed for building customizable and intelligent robots.',
-    packages=find_packages(),    
-    install_requires=[
-        'torch',
+    name = 'Pulsar-Stellar',
+    version= __version__,
+    url = 'https://github.com/pulsarstellar/pulsarstellar',
+    author = 'Lalo Blanc',
+    author_email = 'blanc@pulsarstellar.ai',
+    description = 'Pulsar-Stellar a Robotics & AI Library',
+    long_description = 'Pulsar-Stellar is an innovative, open-source library designed for building customizable and intelligent robots.',
+    packages = find_packages(),    
+    install_requires = [
+        'tensorflow',
         'numpy',
     ],
-    classifiers=[
+    classifiers = [
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: Apache License 2.0',
