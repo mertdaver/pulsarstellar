@@ -4,11 +4,11 @@
 
 # Pulsar-Stellar: Innovating the Union of Robots & Humans
 
-Welcome to Pulsar-Stellar, an evolving framework at the forefront of blending advanced AI cognition with dynamic robotics. Here, we're not just coding robots; we're empowering them to understand, interact, and express in uniquely innovative ways, laying the groundwork for an array of diverse and unique robotic creations.
+Welcome to Pulsar-Stellar, an evolving library at the forefront of blending advanced AI cognition with dynamic robotics. Here, we're not just coding robots; we're empowering them to understand, interact, and express in uniquely innovative ways, laying the groundwork for an array of diverse and unique robotic creations.
 
 ## About Pulsar-Stellar
 
-Pulsar-Stellar is currently in active development, striving to synergize cognitive processing with expressive mechanics. This framework is your canvas for crafting robots that exhibit distinct personalities and capabilities, far beyond standard functionalities.
+Pulsar-Stellar is currently in active development, striving to synergize cognitive processing with expressive mechanics. This library is your canvas for crafting robots that exhibit distinct personalities and capabilities, far beyond standard functionalities.
 
 ### Features
 
@@ -24,7 +24,7 @@ Be a part of the Pulsar-Stellar journey and connect with a global community of l
 
 ## Contribute to the Evolution
 
-- **Get Involved:** As Pulsar-Stellar grows, we need your brilliance! Whether it's contributing code, improving documentation, or sharing innovative ideas, your participation is what will make this framework truly exceptional. See our contribution guidelines to start contributing.
+- **Get Involved:** As Pulsar-Stellar grows, we need your brilliance! Whether it's contributing code, improving documentation, or sharing innovative ideas, your participation is what will make this library truly exceptional. See our contribution guidelines to start contributing.
 - **Explore:** Discover the capabilities of Pulsar-Stellar with our examples.
 - **Dive Deeper:** For comprehensive insights and guidance, visit our documentation.
 
