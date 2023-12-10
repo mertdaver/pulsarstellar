@@ -5,7 +5,7 @@ from ps.version import __version__
 
 
 setup(
-    name = 'Pulsar-Stellar',
+    name = 'pulsarstellar',
     version= __version__,
     url = 'https://github.com/pulsarstellar/pulsarstellar',
     author = 'Lalo Blanc',
