@@ -14,8 +14,8 @@ setup(
     long_description = 'Pulsar-Stellar is an innovative, open-source library designed for building customizable and intelligent robots.',
     packages = find_packages(),    
     install_requires = [
-        'tensorflow',
-        'numpy',
+        'tensorflow==2.15.0',
+        'numpy==1.26.2',
     ],
     classifiers = [
         'Development Status :: 1 - Planning',
