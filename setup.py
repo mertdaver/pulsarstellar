@@ -15,6 +15,7 @@ setup(
     packages = find_packages(),    
     install_requires = [
         'tensorflow==2.15.0',
+        'opencv-python==4.8.1.78',
         'numpy==1.26.2',
     ],
     classifiers = [
