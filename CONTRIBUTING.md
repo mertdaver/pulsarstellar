@@ -4,6 +4,8 @@ We are thrilled that you are interested in contributing to Pulsar-Stellar! This 
 
 ## How to Contribute
 
+### **Using Python v3.10**
+
 ### Reporting Issues
 
 
