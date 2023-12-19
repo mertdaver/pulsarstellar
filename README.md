@@ -6,6 +6,10 @@
 
 Welcome to Pulsar-Stellar, an evolving library at the forefront of blending advanced AI cognition with dynamic robotics. Here, we're not just coding robots; we're empowering them to understand, interact, and express in uniquely innovative ways, laying the groundwork for an array of diverse and unique robotic creations.
 
+## How To Start Contributing
+
+Check out our [contributing](CONTRIBUTING.md)
+
 ## About Pulsar-Stellar
 
 Pulsar-Stellar is currently in active development, striving to synergize cognitive processing with expressive mechanics. This library is your canvas for crafting robots that exhibit distinct personalities and capabilities, far beyond standard functionalities.
