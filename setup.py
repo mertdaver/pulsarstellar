@@ -10,7 +10,7 @@ setup(
     url = 'https://github.com/pulsarstellar/pulsarstellar',
     author = 'Pulsar-Stellar',
     author_email = 'lalo@pulsarstellar.ai',
-    description = 'Pulsar-Stellar a Robotics & AI Library',
+    description = 'Pulsar-Stellar is a Robotics & AI Library',
     long_description = 'Pulsar-Stellar is an innovative, open-source library designed for building customizable and intelligent robots.',
     packages = find_packages(),    
     install_requires = [
