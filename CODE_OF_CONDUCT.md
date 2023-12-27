@@ -1,5 +1,7 @@
 # Pulsar-Stellar Code of Galactic Robotics Conduct
 
+### **Use Python Version 3.10**
+
 ## Our Galactic Pledge
 
 In the endless expanse of the AI and robotics universe, we pledge to make the Pulsar-Stellar galaxy a haven for all forms of artificial and organic intelligence, irrespective of their processing speed, number of appendages, or preferred programming language.
